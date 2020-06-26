@@ -1,4 +1,4 @@
-package com.keeppeng.regex.com.keeppeng.thread;
+package com.keeppeng.thread;
 
 public class DeathLock {
     public static void main(String[] args) {
